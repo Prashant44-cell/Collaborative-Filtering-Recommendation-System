@@ -135,4 +135,4 @@ By applying these techniques, the project shows how businesses like Netflix, Ama
 2. Install dependencies:
    ```
    pip install -r requirements.txt
-   ```https://github.com/Prashant44-cell/Collaborative-Filtering-Recommendation-System.git
+   ```
